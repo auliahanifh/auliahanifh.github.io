@@ -1,7 +1,9 @@
-<!--Nama: Aulia Hanifah
-    NRP: 5026221198
-    Website Reference: http://www.emilyridge.ie/
-    Template Reference: https://bootstrapmade.com/selecao-bootstrap-template/-->
+/** 
+* Nama: Aulia Hanifah
+* NRP: 5026221198
+* Website Reference: http://www.emilyridge.ie/
+* Template Reference: https://bootstrapmade.com/selecao-bootstrap-template/-->
+*/
 
 (function() {
   "use strict";
