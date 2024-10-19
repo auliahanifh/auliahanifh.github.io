@@ -1,10 +1,7 @@
-/**
-* Template Name: Selecao
-* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+<!--Nama: Aulia Hanifah
+    NRP: 5026221198
+    Website Reference: http://www.emilyridge.ie/
+    Template Reference: https://bootstrapmade.com/selecao-bootstrap-template/-->
 
 (function() {
   "use strict";
