@@ -962,6 +962,15 @@ section,
   margin-bottom: 5px;
 }
 
+.btn-primary{
+  background-color:#8ec3b3; 
+  border: none;
+}
+
+.btn-primary{
+  font-family: "Raleway";
+}
+
 .contact .info-item p {
   padding: 0;
   margin-bottom: 0;
