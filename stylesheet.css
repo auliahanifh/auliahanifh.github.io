@@ -632,6 +632,7 @@ section,
 }
 
 .hero .btn-get-started {
+  font-family: "Raleway";
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -784,7 +785,7 @@ section,
   text-align: center;
 }
 
-.member-p{
+.member-p, .services-p{
   font-size: 15px;
   text-align: justify;
 }
